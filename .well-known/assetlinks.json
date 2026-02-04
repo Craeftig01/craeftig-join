@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.creaftig",
+      "sha256_cert_fingerprints": ["9F:7E:96:7C:31:53:C7:6C:90:C8:DD:01:92:93:36:55:E4:17:C2:E5:89:F7:9B:9A:5A:4F:55:D2:50:A5:50:03"]
+    }
+  }
+]

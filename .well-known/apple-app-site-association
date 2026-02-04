@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D5HTY583RK.com.craeftig",
+        "paths": ["/", "/join", "/join/*"]
+      }
+    ]
+  }
+}
