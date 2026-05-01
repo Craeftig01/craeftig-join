@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "D5HTY583RK.com.craeftig",
-        "paths": ["/", "/join", "/join/*"]
+        "paths": ["/", "/join", "/join/*","/qbo-callback*"]
       }
     ]
   }
